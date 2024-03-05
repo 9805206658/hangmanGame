@@ -1,2 +1,1 @@
-# hangmanGame
-this is the game 9 mistake is perform by use then it so the hangman picutre
+https://9805206658.github.io/hangmanGame/
